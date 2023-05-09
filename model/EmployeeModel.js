@@ -5,7 +5,7 @@ const employeeSchema = mongoose.Schema({
     "last_name": String,
     "email": String,
     "department": String,
-    "salary": Number
+    "salary": Number 
 
 })
 
